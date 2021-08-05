@@ -1,0 +1,24 @@
+#sort{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#Next{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+input{
+    margin: 10px;
+}
+#Display_Names{
+    border: 1px solid rgb(131, 14, 226);
+    padding: 10px;
+    border-radius: 10px;
+    width: 50%;
+}
+#display_sort{
+    border: 1px solid rgb(25, 0, 255);
+    padding: 10px;
+    border-radius: 10px;
+    width: 50%;
+}
